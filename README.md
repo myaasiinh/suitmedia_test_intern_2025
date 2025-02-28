@@ -10,10 +10,10 @@ Aplikasi Flutter dengan arsitektur MVVM yang menggunakan BLoC untuk manajemen st
 lib/
 ├── core/
 │   ├── api_services/
-│   │   ├── main_app.dart
-│   │   └── api_services/
-│   │       ├── api_services.dart
-│   │       └── endpoint.dart
+│   │   ├── api_services.dart
+│   │   └── endpoint.dart
+│   ├── config/
+│   │   └── main_app.dart
 │   ├── global_widget/
 │   │   ├── app_bar.dart
 │   │   ├── custom_button.dart
