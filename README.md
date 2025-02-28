@@ -33,7 +33,7 @@ lib/
 │       ├── datasource/
 │       │   └── auth_data_source.dart
 │       └── responsesmodel/
-│           └── auth_responses_model.dart
+│           └── user_responses_model.dart
 └── features/
     ├── first/
     │   └── first_screen.dart
